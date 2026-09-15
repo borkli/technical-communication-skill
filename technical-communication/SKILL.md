@@ -1,6 +1,6 @@
 ---
 name: technical-communication
-description: Write or edit clear Russian or English business communication and technical documentation, including proposals, client messages, project updates, technical explanations, and decision records. Use when the text needs a direct, practical, non-generic professional tone.
+description: Write or edit clear Russian or English technical business communication, including freelance proposals and client replies. Use for Quark, Kwork, Кворк, отклик, отклики, proposal responses, project updates, technical explanations, and documentation when the text needs a direct, practical, non-generic professional tone.
 ---
 
 # Technical Communication
@@ -8,6 +8,8 @@ description: Write or edit clear Russian or English business communication and t
 ## Purpose
 
 Create useful technical communication that is clear on the first read. The writing should sound like a capable person who understands the situation, states what is known, and gives the reader a practical next step.
+
+Requests mentioning Quark, Kwork, Кворк, an отклик, or freelance proposals use this same skill. Treat each new brief as its own context. For a requested отклик, deliver ready-to-send buyer-facing text unless the user also asks for analysis or advice.
 
 Use this skill for:
 

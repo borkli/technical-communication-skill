@@ -11,6 +11,8 @@ Create useful technical communication that is clear on the first read. The writi
 
 Requests mentioning Quark, Kwork, Кворк, an отклик, or freelance proposals use this same skill. Treat each new brief as its own context. For a requested отклик, deliver ready-to-send buyer-facing text unless the user also asks for analysis or advice.
 
+For the buyer-facing text of freelance proposals, use plain text without Markdown formatting, including bold, italic, headings, links, or Markdown lists. Prefer an en dash (–) to an em dash (—). Keep any separate advice to the user outside the copyable proposal.
+
 Use this skill for:
 
 - client, partner, vendor, and freelance correspondence;
